@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2025-10-03 18:32:26,https://cc06.tv12.xyz/11.m3u8$订阅源
+2025-10-05 18:34:06,https://cc06.tv12.xyz/12.m3u8$订阅源
 
 📺央视频道,#genre#
-CCTV-10,https://cc06.tv12.xyz/11.m3u8$订阅源
 CCTV-11,https://cc06.tv12.xyz/12.m3u8$订阅源
 CCTV-12,https://cc06.tv12.xyz/13.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
