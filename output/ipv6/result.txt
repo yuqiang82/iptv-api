@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-01 18:21:37,https://jzb.wwkejishe.top/?id=578$订阅源
+2025-11-03 18:22:37,https://jzb.wwkejishe.top/?id=578$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://jzb.wwkejishe.top/?id=578$订阅源
@@ -48,5 +48,5 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 四川卫视,https://jzb.wwkejishe.top/?id=610$订阅源
 天津卫视,https://jzb.wwkejishe.top/?id=611$订阅源
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
-新疆卫视,https://jzb.wwkejishe.top/?id=623$订阅源
 新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
+新疆卫视,https://jzb.wwkejishe.top/?id=623$订阅源
