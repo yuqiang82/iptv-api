@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-23 18:17:00,https://live.chinacert.cftest5.cn/mg/?id=608807420$订阅源
+2025-11-25 18:20:17,https://live.chinacert.cftest5.cn/mg/?id=608807420$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://live.chinacert.cftest5.cn/mg/?id=608807420$订阅源
@@ -15,6 +15,7 @@ CCTV-9,https://live.chinacert.cftest5.cn/mg/?id=673168140$订阅源
 CCTV-10,https://live.chinacert.cftest5.cn/mg/?id=624878405$订阅源
 CCTV-11,https://live.chinacert.cftest5.cn/mg/?id=667987558$订阅源
 CCTV-12,https://live.chinacert.cftest5.cn/mg/?id=673168185$订阅源
+CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://live.chinacert.cftest5.cn/mg/?id=608807423$订阅源
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
