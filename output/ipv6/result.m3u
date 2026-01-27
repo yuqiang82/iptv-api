@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/yuqiang82/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-25 18:15:18
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-27 18:20:07
 http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601211138448FA9B998510F771A8747-9PrRHC&unique_id=stream-695106910011261612_684_flv&wsSecret=258653137fb1ed334218de18f528adaa&wsTime=69704a44$订阅源
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601211138448FA9B998510F771A8747-9PrRHC&unique_id=stream-695106910011261612_684_flv&wsSecret=258653137fb1ed334218de18f528adaa&wsTime=69704a44$订阅源
@@ -18,13 +18,11 @@ https://iptv.catvod.com/live.php?id=CCTV11%E6%88%8F%E6%9B%B2$订阅源
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
 https://iptv.catvod.com/live.php?id=CCTV12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-https://iptv.catvod.com/live.php?id=CCTV13%E6%96%B0%E9%97%BB$订阅源
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://cdn3.163189.xyz/163189/cctv13$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
+https://iptv.catvod.com/live.php?id=CCTV13%E6%96%B0%E9%97%BB$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-http://pull-hs-f5.flive.douyincdn.com/media/stream-695161386435347116/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1769399632&major_anchor_level=common&sign=9187b14d05855967b7a316320a1085ce&t_id=037-202601191153519CA1DA2812B4E30F9D02-KO6UcR&volcSecret=9187b14d05855967b7a316320a1085ce&volcTime=1769399632$订阅源
+https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
@@ -110,15 +108,15 @@ https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86%E5%8F%B
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86$订阅源
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
-http://php.jdshipin.com/xztv.php?id=ws$订阅源
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://cc02.tv12.xyz/9.m3u8$订阅源
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+http://php.jdshipin.com/xztv.php?id=ws$订阅源
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635$订阅源
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 http://cc02.tv12.xyz/10.m3u8$订阅源
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635$订阅源
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
 https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
